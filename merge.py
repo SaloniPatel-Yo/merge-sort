@@ -71,6 +71,6 @@ for i in range(n):
 mergeSort(arr,0,n-1) 
 print ("\n\nSorted array is") 
 for i in range(n): 
-	print ("%d" %arr[i+1]), 
+	print ("%d" %arr[i]), 
 
 # This code is contributed by Mohit Kumra 
